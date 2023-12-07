@@ -1,0 +1,58 @@
+body{
+    background-image: url(../imagens/123fundo.PNG);
+    background-size: cover;
+}
+
+h1{
+ color:rgb(241, 105, 185);
+ font-style: italic;
+ font-size:30px;
+ text-align: center;
+ box-shadow:4px 4px 5px 2px palevioletred;
+ 
+}
+
+h2{
+    text-align: center;
+    color:aliceblue;
+    font-style:oblique;
+}
+
+h3{
+    text-align: center;
+    color:rgb(241, 105, 185);
+    font-style: italic;
+    font-size:30px;
+}
+li{
+    color: aliceblue;
+}
+
+a{
+    color:white;
+    font-size: 15px;
+}
+
+.nav.dropdown{
+    display:none;
+}
+
+
+@media only screen and (min-width:640px), (max-width:1008){
+}
+
+h4{
+    color:aliceblue;
+    font-style: italic;
+}
+
+hr {
+    color: black;
+}
+
+p{
+    border: 1px color white;
+    text-align: center;
+}
+
+

@@ -1,0 +1,62 @@
+h1 {
+    color: white;
+    font-style: italic;
+    font-size:25px;
+}
+
+h2{
+    color: white;
+    font-size: 15px;
+    font-style: italic;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+}
+
+table {
+    color:white;
+    border-radius: 1px rgb(202, 43, 70);
+    overflow-y: scroll;
+}
+
+body{
+    background-image: url(../imagens/123fundo.PNG);
+    background-size: cover;
+}
+
+th {
+    color:white;
+    border: 1px solid white;
+}
+
+td {
+    border: 1px solid white;
+}
+
+img {
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+
+    
+}
+
+.nav.dropdown{
+    display:none;
+}
+@media only screen and (min-width:640px),( max-width:1008px){
+
+}
+
+a{
+    color: white;
+   
+}
+
+r{
+    box-shadow:3px 3px 5px 2px rgb(233, 123, 160);
+}
